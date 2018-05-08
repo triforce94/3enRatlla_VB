@@ -14,3 +14,4 @@ C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplicatio
 C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.exe
 C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.xml
 C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.pdb
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.vbprojResolveAssemblyReference.cache

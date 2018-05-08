@@ -46,6 +46,7 @@
             Button1.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 2 Then
@@ -53,6 +54,7 @@
             Button2.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 3 Then
@@ -60,6 +62,7 @@
             Button3.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 4 Then
@@ -67,6 +70,7 @@
             Button4.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 5 Then
@@ -74,6 +78,7 @@
             Button5.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 6 Then
@@ -81,6 +86,7 @@
             Button6.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 7 Then
@@ -88,6 +94,7 @@
             Button7.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 8 Then
@@ -95,6 +102,7 @@
             Button8.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         ElseIf datos = 9 Then
@@ -102,6 +110,7 @@
             Button9.Enabled = False
             cont = cont + 1
             desbloquejar()
+            turno_me()
             Label2.Text = "Es el teu torn"
             resultat()
         End If
@@ -117,6 +126,7 @@
         cont = cont + 1
         bloquejar()
         Label2.Text = "Torn del rival"
+        Me.BackColor = SystemColors.Control
         actualitzar_estats()
         resultat()
     End Sub
@@ -250,11 +260,15 @@
             AxWinsock1.SendData(99)
             bloquejar()
         End If
-        If cont = 9 And (Label2.Text IsNot "HAS GUANYAT!" Or Label2.Text IsNot "Has perdut...") Then
+        If cont = 9 And (Label2.Text = "Es el teu torn" Or Label2.Text = "Torn del rival") Then
             Label2.Text = "Empat"
             AxWinsock1.SendData(100)
             bloquejar()
         End If
+    End Sub
+
+    Sub turno_me()
+        Me.BackColor = Color.LightGreen
     End Sub
 
 End Class
