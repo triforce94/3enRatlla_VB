@@ -1,0 +1,16 @@
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\bin\Debug\3enRatlla.exe
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\bin\Debug\3enRatlla.pdb
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\bin\Debug\3enRatlla.xml
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\bin\Debug\Interop.MSWinsockLib.dll
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\Interop.MSWinsockLib.dll
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\AxInterop.MSWinsockLib.dll
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.vbproj.ResolveComReference.cache
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\Form1.resources
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\Form2.resources
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\Form3.resources
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\Resources.resources
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.vbproj.GenerateResource.Cache
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.exe
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.xml
+C:\Users\aprat\Documents\Visual Studio 2015\Projects\3enRatlla\WindowsApplication5\obj\x86\Debug\3enRatlla.pdb
